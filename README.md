@@ -1,5 +1,8 @@
 ## dockerの構築
 ### docker build
+```
+docker compose build
+```
 
 ### docker起動
 ```
