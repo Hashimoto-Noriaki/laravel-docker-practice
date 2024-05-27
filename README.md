@@ -14,7 +14,7 @@ docker compose up -d
  docker exec -it laravel-app /bin/bash
 ```
 ```
-
+root@0a98d5ab74d6:/var/www#
 ```
 ### dockerを止める
 ```
