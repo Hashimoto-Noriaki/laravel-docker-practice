@@ -1,3 +1,25 @@
+# dockerの構築
+### docker build
+
+### docker起動
+```
+docker compose up -d
+```
+
+### コンテナに入る
+```
+ docker exec -it laravel-app /bin/bash
+```
+```
+
+```
+### dockerを止める
+```
+docker compose down
+```
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
